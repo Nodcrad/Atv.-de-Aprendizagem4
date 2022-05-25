@@ -198,7 +198,7 @@ namespace Atv.de_Aprendizagem4
             this.grpFormasDePagar.TabIndex = 13;
             this.grpFormasDePagar.TabStop = false;
             this.grpFormasDePagar.Text = "Forma de Pagamento";
-            this.grpFormasDePagar.Enter += new System.EventHandler(this.groupBox1_Enter);
+            
             // 
             // btnConfirmar
             // 
