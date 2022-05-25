@@ -198,7 +198,6 @@ namespace Atv.de_Aprendizagem4
             this.grpFormasDePagar.TabIndex = 13;
             this.grpFormasDePagar.TabStop = false;
             this.grpFormasDePagar.Text = "Forma de Pagamento";
-            
             // 
             // btnConfirmar
             // 
@@ -217,9 +216,9 @@ namespace Atv.de_Aprendizagem4
             this.lblValorTotal.Font = new System.Drawing.Font("Palatino Linotype", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblValorTotal.Location = new System.Drawing.Point(198, 423);
             this.lblValorTotal.Name = "lblValorTotal";
-            this.lblValorTotal.Size = new System.Drawing.Size(39, 32);
+            this.lblValorTotal.Size = new System.Drawing.Size(45, 32);
             this.lblValorTotal.TabIndex = 15;
-            this.lblValorTotal.Text = "....";
+            this.lblValorTotal.Text = ".....";
             // 
             // qualCurso
             // 
