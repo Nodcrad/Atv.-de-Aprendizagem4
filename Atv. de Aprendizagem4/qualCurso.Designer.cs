@@ -142,7 +142,7 @@ namespace Atv.de_Aprendizagem4
             "Superior de Sistemas de Informação"});
             this.cmbCurso.Location = new System.Drawing.Point(102, 79);
             this.cmbCurso.Name = "cmbCurso";
-            this.cmbCurso.Size = new System.Drawing.Size(233, 40);
+            this.cmbCurso.Size = new System.Drawing.Size(414, 40);
             this.cmbCurso.TabIndex = 8;
             // 
             // txtNome
@@ -150,7 +150,7 @@ namespace Atv.de_Aprendizagem4
             this.txtNome.Font = new System.Drawing.Font("Palatino Linotype", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNome.Location = new System.Drawing.Point(219, 30);
             this.txtNome.Name = "txtNome";
-            this.txtNome.Size = new System.Drawing.Size(338, 40);
+            this.txtNome.Size = new System.Drawing.Size(379, 40);
             this.txtNome.TabIndex = 9;
             // 
             // rdCartao
